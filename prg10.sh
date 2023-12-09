@@ -1,6 +1,6 @@
 #!/bin/bash
 #Test given integegers which is greater.
-#
+#this is a new line
 #The following is a read statement.
 read -p "Enater first number:" num1
 read -p "Enter second number:" num2
